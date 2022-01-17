@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/2948_2009년.py" line="0" mnemonic="9" />
   </component>
@@ -20,14 +21,28 @@
       <change afterPath="$PROJECT_DIR$/2966_찍기.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/3003_킹,퀸,룩,비숍,나이트,폰.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/4673_셀프넘버.py" afterDir="false" />
+=======
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f144c7d-e8b8-4e46-b5c3-c5a5e6f40bcf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/0000_taratest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1018_체스판 다시 칠하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10539_수빈이와 수열.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10829_이진수 변환.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2476_주사위 게임.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2503_숫자야구.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2798_블랙잭.py" afterDir="false" />
+>>>>>>> 899a75cbd6f2edb71e33a1e78a43a46f67badf51
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FUSProjectUsageTrigger">
     <session id="1571089844">
       <usages-collector id="statistics.lifecycle.project">
@@ -155,6 +170,8 @@
       </file>
     </leaf>
   </component>
+=======
+>>>>>>> 899a75cbd6f2edb71e33a1e78a43a46f67badf51
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -203,6 +220,7 @@
     <option name="width" value="1032" />
     <option name="height" value="934" />
   </component>
+  <component name="ProjectId" id="23jyts4427Bk4HcLV86UZJKOj0W" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -225,11 +243,16 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2118474" />
   </component>
+<<<<<<< HEAD
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -244,18 +267,26 @@
   </component>
   <component name="RunManager" selected="Python.2966_찍기">
     <configuration name="2037_문자메시지" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+  <component name="RunManager" selected="Python.1018_체스판 다시 칠하기">
+    <configuration name="0000_taratest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> 899a75cbd6f2edb71e33a1e78a43a46f67badf51
       <module name="Backjoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="D:\202201\SSAFY\semester\SSAFYRACE\MyCar_20211119\Template_Python\Bot_Python\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2037_문자메시지.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0000_taratest.py" />
+>>>>>>> 899a75cbd6f2edb71e33a1e78a43a46f67badf51
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -264,19 +295,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="2520_팬케이크 사랑" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="1018_체스판 다시 칠하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> 899a75cbd6f2edb71e33a1e78a43a46f67badf51
       <module name="Backjoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="D:\202201\SSAFY\semester\SSAFYRACE\MyCar_20211119\Template_Python\Bot_Python\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2520_팬케이크 사랑.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1018_체스판 다시 칠하기.py" />
+>>>>>>> 899a75cbd6f2edb71e33a1e78a43a46f67badf51
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -285,19 +324,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="2789_유학금지" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="10539_수빈이와 수열" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> 899a75cbd6f2edb71e33a1e78a43a46f67badf51
       <module name="Backjoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="D:\202201\SSAFY\semester\SSAFYRACE\MyCar_20211119\Template_Python\Bot_Python\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2789_유학금지.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10539_수빈이와 수열.py" />
+>>>>>>> 899a75cbd6f2edb71e33a1e78a43a46f67badf51
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -306,19 +353,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="2948_2009년" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="10829_이진수 변환" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> 899a75cbd6f2edb71e33a1e78a43a46f67badf51
       <module name="Backjoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="D:\202201\SSAFY\semester\SSAFYRACE\MyCar_20211119\Template_Python\Bot_Python\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2948_2009년.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10829_이진수 변환.py" />
+>>>>>>> 899a75cbd6f2edb71e33a1e78a43a46f67badf51
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -327,19 +382,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="2966_찍기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="2476_주사위 게임" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> 899a75cbd6f2edb71e33a1e78a43a46f67badf51
       <module name="Backjoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="D:\202201\SSAFY\semester\SSAFYRACE\MyCar_20211119\Template_Python\Bot_Python\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2966_찍기.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2476_주사위 게임.py" />
+>>>>>>> 899a75cbd6f2edb71e33a1e78a43a46f67badf51
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -349,6 +412,7 @@
       <method v="2" />
     </configuration>
     <list>
+<<<<<<< HEAD
       <item itemvalue="Python.2037_문자메시지" />
       <item itemvalue="Python.2520_팬케이크 사랑" />
       <item itemvalue="Python.2789_유학금지" />
@@ -362,9 +426,25 @@
         <item itemvalue="Python.2789_유학금지" />
         <item itemvalue="Python.2520_팬케이크 사랑" />
         <item itemvalue="Python.2037_문자메시지" />
+=======
+      <item itemvalue="Python.0000_taratest" />
+      <item itemvalue="Python.2476_주사위 게임" />
+      <item itemvalue="Python.10829_이진수 변환" />
+      <item itemvalue="Python.10539_수빈이와 수열" />
+      <item itemvalue="Python.1018_체스판 다시 칠하기" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.1018_체스판 다시 칠하기" />
+        <item itemvalue="Python.10539_수빈이와 수열" />
+        <item itemvalue="Python.10829_이진수 변환" />
+        <item itemvalue="Python.2476_주사위 게임" />
+        <item itemvalue="Python.0000_taratest" />
+>>>>>>> 899a75cbd6f2edb71e33a1e78a43a46f67badf51
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
