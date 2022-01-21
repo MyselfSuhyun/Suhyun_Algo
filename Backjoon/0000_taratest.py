@@ -1,4 +1,9 @@
-arr = [1,2,3]
+a = [1, 2, 3, 4]
+b = [11, 22, 33, 44, 55, 66, 77, 88]
+c = [0] * len(b)
+print(c)
+for i in range(len(c)):
+    c[i] = a[i%len(a)]
 
-for i in range(30):
-    print(arr[i%len(arr)],end=' ')
+print(c)
+
