@@ -5,13 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f144c7d-e8b8-4e46-b5c3-c5a5e6f40bcf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/0000_taratest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1018_체스판 다시 칠하기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10539_수빈이와 수열.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10829_이진수 변환.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2476_주사위 게임.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2503_숫자야구.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2798_블랙잭.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
