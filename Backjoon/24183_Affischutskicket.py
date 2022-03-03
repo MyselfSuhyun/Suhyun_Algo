@@ -1,0 +1,11 @@
+N, M , K = map(int,input().split())
+N = 229*324*2*N*(10**-6)
+M = 297*420*2*M*(10**-6)
+K = 210*297*K*(10**-6)
+print(round(N+M+K,6))
+# N, M , K = map(int,input().split())
+# arr = [0.148392, 0.24948, 0.06237]
+# print(round(arr[0]*N+arr[1]*M+arr[2]*K,6))
+# print(229*324*2)
+# print(297*420*2)
+# print(210*297)
